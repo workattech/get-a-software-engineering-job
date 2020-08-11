@@ -15,13 +15,15 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 
 ## Getting your resume shortlisted
 - Since most job openings receive 100s to 1000s of applications, it is not possible for a company to interview everyone who applies.
-- To reduce the number of interviews, Recruiters and Hiring Managers reject shortlist only those resumes which stand out or matches the most to the job roles.
+- To reduce the number of interviews, Recruiters and Hiring Managers shortlist only those resumes which stand out or matches the most to the job roles.
 - Having common basic projects on your resume or having a 3* rating on CodeChef is still better than having nothing related to programming. But note that these things won't help you stand out as 50% of the applicants would have the same thing.
 - Few things that can help your resume stand out:
   - Good ranks in programming contests
   - Demoeable projects that actually solve a problem and whose code is not easily available on the internet
   - Decent open-source contribution
   - Good research work
+  - Being from a Tier-1 college. Not much within your control.
+  - Having worked at a big tech company previously. Not applicable for freshers.
 - Make sure that your resume follows the best practices: [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6)
 - Confused, what to do?: [Competitive Programming or Open Source Contribution?](https://workat.tech/general/article/competitive-programming-open-source-zbnd3oy8n94l)
 
