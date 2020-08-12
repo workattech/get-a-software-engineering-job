@@ -29,7 +29,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 
 ## Clearing interviews
 Note that 2 things are extremely important here:
-- **Learning:** You need to learn all the major concepts that is expected of you as programmer
+- **Learning:** You need to learn all the major concepts that is expected of you as a programmer/developer
 - **Practice:** You need to focus a lot on practicing to build expertise on the concepts that you learn
 
 ### Learn how to code & build strong foundations
