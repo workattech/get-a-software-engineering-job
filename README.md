@@ -19,7 +19,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - Having common basic projects on your resume or having a 3* rating on CodeChef is still better than having nothing related to programming. But note that these things won't help you stand out as 50% of the applicants would have the same thing.
 - Few things that can help your resume stand out:
   - Good ranks in programming contests
-  - Demoeable projects that actually solve a problem and whose code is not easily available on the internet
+  - [Demoeable projects](https://2020.teamtanay.jobchallenge.dev/04_what-project-level) that actually [solve a problem](https://youtu.be/PU4zArf71Yg?t=249) and whose code is not easily available on the internet
   - Decent open-source contribution
   - Good research work
   - Being from a Tier-1 college. Not much within your control.
@@ -57,6 +57,7 @@ Note that 2 things are extremely important here:
 
 ### Prepare for System Design [For senior roles | 2+ years of experience]
 - [Best resources for System Design](https://workat.tech/system-design/article/best-resources-for-system-design-interview-i-dbv5ok8vtjya)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### During the interview
 - [How to ace the Problem Solving, Data Structures & Algorithms Round? | DOs & DONTs](https://workat.tech/problem-solving/article/how-to-ace-ps-ds-round-bg1570pm4avl)
@@ -78,3 +79,12 @@ You can follow us on our social media handles for updates:
 - Instagram: [Quizzes, Challenges, Memes, etc on Programming, Interview Prep and Job Search](http://instagram.com/workat.tech)
 - Facebook: [Community Group](https://workat.tech/community), [Page](https://www.facebook.com/workat.tech)
 - Twitter: [workat_tech](https://twitter.com/workat_tech), [Gaurav](https://twitter.com/gc_nit), [Sagar](https://twitter.com/sagarjain0907)
+
+---
+Programming communities you should join:
+- [workat.tech slack community](https://workat.tech/slack)
+- [SDE Skills discord community](http://sdeskills.com/discord)
+- [#TeamTanay (Unofficial): Tanay Pratap](https://discord.gg/JTpgTY)
+- [TakeUForward by Raj Vikramaditya](http://t.me/CP_Tuf)
+- [#DevArmy by Akshay Saini](http://t.me/joinsimran)
+- [AndroidVille by Ayusch Jain](https://join.slack.com/t/androidvillespace/shared_invite/zt-7n2a4v2c-MZBzwh3fccbdM6CRE3BlaQ)
