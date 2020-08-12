@@ -69,7 +69,7 @@ Note that 2 things are extremely important here:
 - [Salary Negotiation Guide: Why and How to do it](https://workat.tech/general/article/salary-negotiation-guide-ehnrr1is5emc)
 - [Got the job, now what?](https://workat.tech/general/article/got-the-job-now-what-x3czxlcfvlai)
 
-
+---
 **If you find this guide useful, please star it and share it on social media, whatsapp and any other programming community.**
 
 You can follow us on our social media handles for updates:
