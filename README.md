@@ -20,7 +20,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - Few things that can help your resume stand out:
   - Good ranks in programming contests
   - [Demoeable projects](https://2020.teamtanay.jobchallenge.dev/04_what-project-level) that actually [solve a problem](https://youtu.be/PU4zArf71Yg?t=249) and whose code is not easily available on the internet
-  - Decent open-source contribution
+  - Decent [open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj)
   - Good research work
   - Being from a Tier-1 college. Not much within your control.
   - Having worked at a big tech company previously. Not applicable for freshers.
