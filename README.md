@@ -25,6 +25,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
   - Being from a Tier-1 college. Not much within your control.
   - Having worked at a big tech company previously. Not applicable for freshers.
 - Make sure that your resume follows the best practices: [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6)
+- You can use this [resume template to build your one-page own resume](https://github.com/workattech/workattech_sample_resume)
 - Confused, what to do?: [Competitive Programming or Open Source Contribution?](https://workat.tech/general/article/competitive-programming-open-source-zbnd3oy8n94l)
 
 ## Clearing interviews
