@@ -19,7 +19,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - Having common basic projects on your resume or having a 3* rating on CodeChef is still better than having nothing related to programming. But note that these things won't help you stand out as 50% of the applicants would have the same thing.
 - Few things that can help your resume stand out:
   - Good ranks in programming contests
-  - [Demoeable projects](https://2020.teamtanay.jobchallenge.dev/04_what-project-level) that actually [solve a problem](https://youtu.be/PU4zArf71Yg?t=249) and whose code is not easily available on the internet
+  - [Demoeable projects that actually solve a problem and whose code is not easily available on the internet](https://workat.tech/general/article/awesome-project-ideas-software-developers-resume-c8yb6s706bxq)
   - Decent [open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj)
   - Good research work
   - Being from a Tier-1 college. Not much within your control.
