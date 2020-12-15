@@ -1,4 +1,8 @@
 # Get a Software Engineering Job/Internship - Ultimate Guide
+> This document is for self-preparation. Check out [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) if you are want to:
+> - fast-track your learning through hands-on learning, and,
+> - have engineers from top product-based companies teach and mentor you
+
 
 Let's divide the job search process into 4 stages:
 - Searching for and applying to jobs
@@ -27,6 +31,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - Make sure that your resume follows the best practices: [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6)
 - You can use this [resume template to build your one-page own resume](https://github.com/workattech/workattech_sample_resume)
 - Confused, what to do?: [Competitive Programming or Open Source Contribution?](https://workat.tech/general/article/competitive-programming-open-source-zbnd3oy8n94l)
+> You can join [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) where you will learn fullstack development and build [amazing projects](https://workat.tech/general/article/awesome-project-ideas-software-developers-resume-c8yb6s706bxq) which will help you with resume shortlisting.
 
 ## Clearing interviews
 Note that 2 things are extremely important here:
@@ -69,6 +74,8 @@ Note that 2 things are extremely important here:
 - [Compare salary and levels/roles across top product-based companies](https://workat.tech/compare)
 - [Salary Negotiation Guide: Why and How to do it](https://workat.tech/general/article/salary-negotiation-guide-ehnrr1is5emc)
 - [Got the job, now what?](https://workat.tech/general/article/got-the-job-now-what-x3czxlcfvlai)
+
+> You can join [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) where you will learn everything that you need to prepare for getting an SDE 1 job at a product-based company.
 
 ---
 **If you find this guide useful, please star it and share it on social media, whatsapp and any other programming community.**
