@@ -1,5 +1,5 @@
 # Get a Software Engineering Job/Internship - Ultimate Guide
-> This document is for self-preparation. Check out [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) if you are want to:
+> This document is for self-preparation. Check out [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) if you want to:
 > - fast-track your learning through hands-on learning, and,
 > - have engineers from top product-based companies teach and mentor you
 
