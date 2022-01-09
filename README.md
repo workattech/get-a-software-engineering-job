@@ -83,7 +83,7 @@ Note that 2 things are extremely important here:
 You can follow us on our social media handles for updates:
 - WhatsApp: [Free Newsletter on Programming, Interview Prep and Job Search](https://api.whatsapp.com/send?phone=919732130450&text=Subscribe) [**Highly recommended**]
 - LinkedIn: [Gaurav](https://www.linkedin.com/in/gcnit), [Sagar](https://www.linkedin.com/in/sagar0907), [workat.tech](https://www.linkedin.com/company/workat-tech)
-- Slack: [Community to have discussion, ask doubts, find resources and be a part of the community](https://workat.tech/slack)
+- Discord: [Community to have discussion, ask doubts, find resources and be a part of the community](https://workat.tech/discord)
 - Instagram: [Quizzes, Challenges, Memes, etc on Programming, Interview Prep and Job Search](http://instagram.com/workat.tech)
 - Facebook: [Community Group](https://workat.tech/community), [Page](https://www.facebook.com/workat.tech)
 - Twitter: [workat_tech](https://twitter.com/workat_tech), [Gaurav](https://twitter.com/gc_nit), [Sagar](https://twitter.com/sagarjain0907)
