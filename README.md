@@ -16,6 +16,7 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - [How to apply for off-campus placements (jobs/internships)?](https://workat.tech/general/article/apply-off-campus-placements-jobs-internships-n8201qu9c4jc)
 - [How to get job referrals on LinkedIn?](https://workat.tech/general/article/linkedin-job-referrals-ys58hxrjj93f)
 - [How to get a recruiter's attention on LinkedIn?](https://workat.tech/general/article/get-recruiter-attention-linkedin-k90rgq70harw)
+- [Apply to Handpicked SDE Jobs or Internships](https://workat.tech/jobs)
 
 ## Getting your resume shortlisted
 - Since most job openings receive 100s to 1000s of applications, it is not possible for a company to interview everyone who applies.
@@ -41,7 +42,6 @@ Note that 2 things are extremely important here:
 ### Learn how to code & build strong foundations
 - [Intro To Programming in C/C++](https://workat.tech/courses/intro-to-programming-in-c-c++-ouv5e6upwyde)
 - [Which programming languages/technologies should I learn?](https://workat.tech/general/article/which-language-to-learn-yq8dbd9rd34z)
-- [SDE Kickstart | Become a solid programmer | Paid Mentorship & Learning Program](https://workat.tech/programs/kickstart)
 
 ### Interview Prep Roadmap & Tips
 - [SDE I Interview Preparation: The Ultimate Guide](https://workat.tech/general/article/sde-1-interview-prep-ultimate-guide-dhijqvdubzor)
@@ -52,6 +52,7 @@ Note that 2 things are extremely important here:
 - [How to prepare for the Problem Solving, Data Structures & Algorithms Interview Round?](https://workat.tech/problem-solving/article/how-to-prepare-for-ps-ds-round-tk0ytigb0s25)
 - [Is competitive programming necessary to crack interviews?](https://workat.tech/problem-solving/article/competitive-programming-for-interviews-hdndsdeila4r)
 - [Common Mistakes to Avoid in Competitive Programming](https://workat.tech/problem-solving/article/common-mistakes-competitive-programming-lf4oh6kwtw7o)
+- [Practice handpicked DSA questions on the Practice Platform](https://workat.tech/problem-solving/practice)
 
 ### Prepare for Machine Coding Round
 - [What is a Machine Coding Round?](https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
@@ -90,7 +91,7 @@ You can follow us on our social media handles for updates:
 
 ---
 Programming communities you should join:
-- [workat.tech slack community](https://workat.tech/slack)
+- [workat.tech Discord community](https://workat.tech/discord)
 - [SDE Skills discord community](http://sdeskills.com/discord)
 - [#TeamTanay (Unofficial): Tanay Pratap](https://discord.gg/JTpgTY)
 - [TakeUForward by Raj Vikramaditya](http://t.me/CP_Tuf)
