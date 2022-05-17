@@ -1,8 +1,4 @@
 # Get a Software Engineering Job/Internship - Ultimate Guide
-> This document is for self-preparation. Check out [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) if you want to:
-> - fast-track your learning through hands-on learning, and,
-> - have engineers from top product-based companies teach and mentor you
-
 
 Let's divide the job search process into 4 stages:
 - Searching for and applying to jobs
@@ -31,7 +27,6 @@ Let's look at what do you need to do at each of these stages. Note that each of 
 - Make sure that your resume follows the best practices: [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6)
 - You can use this [resume template to build your one-page own resume](https://github.com/workattech/workattech_sample_resume)
 - Confused, what to do?: [Competitive Programming or Open Source Contribution?](https://workat.tech/general/article/competitive-programming-open-source-zbnd3oy8n94l)
-> You can join [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) where you will learn fullstack development and build [amazing projects](https://workat.tech/general/article/awesome-project-ideas-software-developers-resume-c8yb6s706bxq) which will help you with resume shortlisting.
 
 ## Clearing interviews
 Note that 2 things are extremely important here:
@@ -41,7 +36,6 @@ Note that 2 things are extremely important here:
 ### Learn how to code & build strong foundations
 - [Intro To Programming in C/C++](https://workat.tech/courses/intro-to-programming-in-c-c++-ouv5e6upwyde)
 - [Which programming languages/technologies should I learn?](https://workat.tech/general/article/which-language-to-learn-yq8dbd9rd34z)
-- [SDE Kickstart | Become a solid programmer | Paid Mentorship & Learning Program](https://workat.tech/programs/kickstart)
 
 ### Interview Prep Roadmap & Tips
 - [SDE I Interview Preparation: The Ultimate Guide](https://workat.tech/general/article/sde-1-interview-prep-ultimate-guide-dhijqvdubzor)
@@ -61,6 +55,9 @@ Note that 2 things are extremely important here:
 ### Prepare for Behavioral Round
 - [Ace the Behavioral Interview | STAR Technique](https://workat.tech/general/article/ace-behavioral-interview-star-technique-igsg09rw2u1a)
 
+### Learn Core CS
+- [Core CS Notes and Interview Questions](https://github.com/workattech/core-cs-os-networks-dbms)
+
 ### Prepare for System Design [For senior roles | 2+ years of experience]
 - [Best resources for System Design](https://workat.tech/system-design/article/best-resources-for-system-design-interview-i-dbv5ok8vtjya)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -75,8 +72,6 @@ Note that 2 things are extremely important here:
 - [Salary Negotiation Guide: Why and How to do it](https://workat.tech/general/article/salary-negotiation-guide-ehnrr1is5emc)
 - [Got the job, now what?](https://workat.tech/general/article/got-the-job-now-what-x3czxlcfvlai)
 
-> You can join [SDE Bootcamp](https://workat.tech/programs/sde-bootcamp) where you will learn everything that you need to prepare for getting an SDE 1 job at a product-based company.
-
 ---
 **If you find this guide useful, please star it and share it on social media, whatsapp and any other programming community.**
 
@@ -87,12 +82,3 @@ You can follow us on our social media handles for updates:
 - Instagram: [Quizzes, Challenges, Memes, etc on Programming, Interview Prep and Job Search](http://instagram.com/workat.tech)
 - Facebook: [Community Group](https://workat.tech/community), [Page](https://www.facebook.com/workat.tech)
 - Twitter: [workat_tech](https://twitter.com/workat_tech), [Gaurav](https://twitter.com/gc_nit), [Sagar](https://twitter.com/sagarjain0907)
-
----
-Programming communities you should join:
-- [workat.tech slack community](https://workat.tech/slack)
-- [SDE Skills discord community](http://sdeskills.com/discord)
-- [#TeamTanay (Unofficial): Tanay Pratap](https://discord.gg/JTpgTY)
-- [TakeUForward by Raj Vikramaditya](http://t.me/CP_Tuf)
-- [#DevArmy by Akshay Saini](http://t.me/joinsimran)
-- [AndroidVille by Ayusch Jain](https://join.slack.com/t/androidvillespace/shared_invite/zt-7n2a4v2c-MZBzwh3fccbdM6CRE3BlaQ)
